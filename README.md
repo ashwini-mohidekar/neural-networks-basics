@@ -1,12 +1,18 @@
-# Perceptron Implementation
+# Neural Networks Basics
 
-This project demonstrates the implementation of:
+This repository documents my learning journey in machine learning, neural networks, and image classification using Python and Jupyter Notebook.
 
-- AND gate using a single-layer perceptron
-- XOR gate using a multi-layer perceptron
+The goal of this repository is to build strong fundamentals by implementing concepts step by step and understanding the theory behind them.
 
-Concepts covered:
-- Step activation function
-- Linearly separable problems
-- Hidden layer neurons
-- XOR limitation of single perceptrons
+
+
+## Purpose of this Repository
+
+This repository is primarily focused on:
+
+* learning by implementation
+* understanding ML fundamentals
+* documenting progress
+* building a strong foundation in AI and neural networks
+
+
